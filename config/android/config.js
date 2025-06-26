@@ -40,7 +40,7 @@
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
         "share_url": "",
         "update": {
-          "versionCode": 34,
+          "versionCode": 0,
           "link": "",
           "description": "1.0.1",
           "size": 18000,
