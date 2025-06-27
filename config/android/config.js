@@ -4,7 +4,7 @@
         "limitAdsTime": 300000,
         "mute": true,
         "admob": {
-            "enable": true,
+            "enable": false,
             "app_id": "ca-app-pub-7223114719058225~3313293507",
             "banner": "ca-app-pub-7223114719058225/1194666121",
             "interstitial": "ca-app-pub-7223114719058225/6941547322",
@@ -15,7 +15,7 @@
             "showIntertisialPercent": 20,
             "nativeAdvance": "",
             "showBanner": true,
-            "showNativeAdvance": true,
+            "showNativeAdvance": false,
             "ecmp": "22"
         },
         "house_ads": {
